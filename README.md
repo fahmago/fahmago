@@ -45,12 +45,56 @@ I am a **Full-stack Developer** and **Creative Entrepreneur** dedicated to build
 
 <div align="center">
 
-### 🚀 Featured Projects
+### 🚀 Key Projects
 
-| **Ummat Pedia** | **Hiruken** | **MyCalla Studio** |
-|:---:|:---:|:---:|
-| E-commerce Marketplace for the Muslim Community | Clothing Brand & Fashion | Creative Agency & Digital Solutions |
-| *Flutter, Laravel* | *Business, Branding* | *Design, Web, Mobile* |
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>🚀 Exam Web CBT</b>
+      <br />
+      <sub>Professional computer-based testing platform designed for high-concurrency and security.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
+      <br /><br />
+      ✨ <i>Optimized for seamless exam management</i>
+    </td>
+    <td width="50%" align="center">
+      <b>🛍️ Jajanan Kita</b>
+      <br />
+      <sub>E-commerce marketplace dedicated to local culinary businesses and MSMEs.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br /><br />
+      ✨ <i>User-friendly interface & local payments</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>⚰️ Maut App</b>
+      <br />
+      <sub>Specialized mobile app for community death records management.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <br /><br />
+      ✨ <i>Simplifying complex community data</i>
+    </td>
+    <td width="50%" align="center">
+      <b>📢 Pengaduan Masyarakat Web</b>
+      <br />
+      <sub>Public service portal for citizens to report issues and track resolution.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+      <br /><br />
+      ✨ <i>Transparency for community & administrators</i>
+    </td>
+  </tr>
+</table>
 
 </div>
 
