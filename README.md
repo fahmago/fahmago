@@ -107,11 +107,11 @@ I am a **Full-stack Developer** and **Creative Entrepreneur** dedicated to build
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmago&theme=dark" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmago&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahmago&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahmago&theme=dark" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahmago&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahmago&theme=tokyonight" alt="Productive Time" />
 </p>
 
 <!-- Snake Animation -->
@@ -133,7 +133,7 @@ I am a **Full-stack Developer** and **Creative Entrepreneur** dedicated to build
 <a href="https://linkedin.com/in/ahmadfaisalqodri" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/fahmago" target="_blank">
+<a href="https://instagram.com/ahmedfqno" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
