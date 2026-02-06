@@ -17,7 +17,7 @@
 I am a **Full-stack Developer** and **Creative Entrepreneur** dedicated to building scalable digital solutions. My workflow is fueled by **v60 manual brew coffee** ☕ and a deep passion for the **TALL stack** and **Flutter ecosystem**. I bridge the gap between robust backend logic and intuitive mobile experiences.
 
 *   🔭 **Current Ventures**:
-    *   Developing **Ummat Pedia**, an e-commerce marketplace for the Muslim community.
+    *   Developing **Exam Web CBT** High-concurrency CBT platform focused on security and performance..
     *   Building a high-performance **News Application** using Flutter & GetX.
     *   Founder of **Hiruken** (clothing brand) and Lead at **MyCalla Studio** (creative agency).
 *   🎓 **Community**: I love teaching technical subjects and sharing *"bahan ajar"* to help others grow in their coding journey.
@@ -80,6 +80,8 @@ I am a **Full-stack Developer** and **Creative Entrepreneur** dedicated to build
       <br /><br />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <br /><br />
       ✨ <i>Simplifying complex community data</i>
     </td>
@@ -89,7 +91,7 @@ I am a **Full-stack Developer** and **Creative Entrepreneur** dedicated to build
       <sub>Public service portal for citizens to report issues and track resolution.</sub>
       <br /><br />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <br /><br />
       ✨ <i>Transparency for community & administrators</i>
     </td>
@@ -104,11 +106,12 @@ I am a **Full-stack Developer** and **Creative Entrepreneur** dedicated to build
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmago&show_icons=true&theme=dark" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmago&theme=dark" alt="GitHub Profile Details" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmago&layout=compact&theme=dark" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahmago&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahmago&theme=dark" alt="Productive Time" />
 </p>
 
 <!-- Snake Animation -->
